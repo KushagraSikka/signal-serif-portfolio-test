@@ -1,0 +1,182 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "fraud-detection-in-python",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/hamsikavarma/fraud-detection-in-python",
+      "demo": "https://github.com/hamsikavarma/fraud-detection-in-python",
+      "links": {
+        "github": "https://github.com/hamsikavarma/fraud-detection-in-python"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "time-series-forecasting-python",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#4ECDC4",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/hamsikavarma/time-series-forecasting-python",
+      "demo": "https://github.com/hamsikavarma/time-series-forecasting-python",
+      "links": {
+        "github": "https://github.com/hamsikavarma/time-series-forecasting-python"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "creditcardfrauddetection-mlops",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "CSS",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FFE66D",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+      "demo": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+      "links": {
+        "github": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "mutual-fund-analysis-dashboard-python-powerbi",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Data Science",
+      "technologies": [
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+      "demo": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+      "links": {
+        "github": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "supply-chain-dashboard",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/hamsikavarma/supply-chain-dashboard",
+      "demo": "https://github.com/hamsikavarma/supply-chain-dashboard",
+      "links": {
+        "github": "https://github.com/hamsikavarma/supply-chain-dashboard"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "call-center-performance-analytics-dashboard",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#7FDBDA",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+      "demo": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+      "links": {
+        "github": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "demo": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "links": {
+        "github": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "hr-analytics-kpi-dashboard-using-power-bi",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi",
+      "demo": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi",
+      "links": {
+        "github": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}

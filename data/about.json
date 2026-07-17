@@ -1,0 +1,40 @@
+{
+  "_instructions": "About section.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "Data Analyst with 4+ years of experience delivering data-driven solutions across financial services and healthcare technology. Experienced in SQL, Python, Power BI, Tableau, and Advanced Excel for data analysis, ETL/ELT pipelines, dashboard development, KPI reporting, and business intelligence. Skilled in transforming complex datasets into actionable business insights through data validation, statistical analysis, trend analysis, and reporting automation.",
+    "Familiar with Machine Learning, NLP, OpenAI API, LLM Integration, Prompt Engineering, Retrieval-Augmented Generation (RAG), and AI powered analytics to support predictive decision-making and process improvement. Strong collaborator with experience partnering with cross functional stakeholders to improve data quality, reporting accuracy, and operational efficiency."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-briefcase",
+      "value": "5+",
+      "label": "Years Experience",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "1+",
+      "label": "Featured Projects",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "64+",
+      "label": "Technologies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-building",
+      "value": "2",
+      "label": "Companies",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/Resume.pdf",
+    "icon": "fas fa-download"
+  }
+}
